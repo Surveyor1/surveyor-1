@@ -1,0 +1,2 @@
+baseurl: /surveyor-1
+exclude: ['README.md']
